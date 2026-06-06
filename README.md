@@ -1,4 +1,3 @@
-[06-06 ELEKT_ Schaltungsunterlagen, Schaltplanarten und Wechselschaltung mit Steckdose-Summary.md](https://github.com/user-attachments/files/28668897/06-06.ELEKT_.Schaltungsunterlagen.Schaltplanarten.und.Wechselschaltung.mit.Steckdose-Summary.md)
 # 06-06 ELEKT: Schaltungsunterlagen, Schaltplanarten und Wechselschaltung mit Steckdose
 
 # **Schaltungsunterlagen**
@@ -311,6 +310,5 @@ DE - **Zusammenfassungstabelle der Unterschiede**
 - Du musst die Schutzfunktion des PE sicher kennen.
 - Du musst bei Aufgaben auf Normen und sichere Leiterfarben achten.
 ## **Reference**
-### References
 - Europa-Lehrmittel, *Schaltungstechnik / Schaltungsunterlagen*, Seiten 100 bis 102 des bereitgestellten PDFs.[1]
 - Genannter Normbezug in der Abbildung: DIN EN IEC 81346-2 für Kennbuchstaben und DIN VDE 0100-410 für den Schutzleiterhinweis.[1]
